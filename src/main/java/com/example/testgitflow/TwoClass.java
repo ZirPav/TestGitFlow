@@ -1,7 +1,4 @@
 package com.example.testgitflow;
 
-public class OneClass {
-
-
-
+public class TwoClass {
 }
