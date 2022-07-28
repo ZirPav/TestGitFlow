@@ -6,5 +6,6 @@ import lombok.Data;
 public class OneClass {
 
  public String firstCommit;
+ public String SecondCommit;
 
 }
