@@ -10,4 +10,5 @@ public class SuperService {
     private String superCode;
     private String age;
     private String halo;
+    private String name;
 }
