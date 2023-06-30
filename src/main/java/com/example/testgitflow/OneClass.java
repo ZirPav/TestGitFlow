@@ -1,7 +1,0 @@
-package com.example.testgitflow;
-
-public class OneClass {
-
-
-
-}
