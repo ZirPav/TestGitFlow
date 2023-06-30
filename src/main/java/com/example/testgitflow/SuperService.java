@@ -8,4 +8,5 @@ import org.springframework.stereotype.Component;
 public class SuperService {
 
     private String superCode;
+    private String age;
 }
