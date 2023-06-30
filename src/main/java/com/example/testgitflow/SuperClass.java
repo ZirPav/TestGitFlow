@@ -6,5 +6,4 @@ import org.springframework.stereotype.Component;
 public class SuperClass {
 
     private String superCode;
-    private String name;
 }
