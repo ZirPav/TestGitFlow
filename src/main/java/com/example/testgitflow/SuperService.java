@@ -12,4 +12,5 @@ public class SuperService {
     private String halo;
     private String name;
     private String god;
+    private String six;
 }
