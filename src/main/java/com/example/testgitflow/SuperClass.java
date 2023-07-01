@@ -7,4 +7,5 @@ public class SuperClass {
 
     private String superCode;
     private String name;
+    private String god;
 }
